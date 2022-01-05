@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 import output_img
 import img_math
-import img_recognition
+# import img_recognition
 # import config
 
 SZ = 20  # 训练图片长宽
