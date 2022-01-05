@@ -4,7 +4,7 @@ import numpy as np
 import output_img
 import img_math
 import img_recognition
-import config
+# import config
 
 SZ = 20  # 训练图片长宽
 MAX_WIDTH = 1000  # 原始图片最大宽度
