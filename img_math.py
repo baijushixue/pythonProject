@@ -4,7 +4,7 @@ import numpy as np
 MAX_WIDTH = 1000
 Min_Area = 2000
 SZ = 20
-PROVINCE_START = 1000
+# PROVINCE_START = 1000
 """
 该文件包含读文件函数
 取零值函数
